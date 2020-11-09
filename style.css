@@ -1,3 +1,18 @@
 body{
-  background-color: red;
+  background-color: #F4F4F4!important;
+
+}
+.dpad{
+  position: relative;
+  text-align:center;
+  margin: auto;
+}
+.left, .right{
+  width: 200px;
+  height: 75px;
+  margin: 0 2.5em;
+}
+.up, .down{
+  width: 75px;
+  height: 200px;
 }
